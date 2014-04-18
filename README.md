@@ -56,7 +56,7 @@ and HTML:
 </template>
 ```
 
-Of course, you can use any variable to store the object returned by `new Meteor.Pagination()`, not necessarily `Pages`.
+Of course, you can use any variable to store the object returned by `new Meteor.Pagination()`, not necessarily `Pages`. Don't worry about the `pagesData` template parameter above - the package will supply it.
 
 Settings
 --------
